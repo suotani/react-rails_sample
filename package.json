@@ -1,0 +1,7 @@
+{
+  "name": "test_react_app",
+  "private": true,
+  "dependencies": {
+    "superagent": "^3.8.2"
+  }
+}

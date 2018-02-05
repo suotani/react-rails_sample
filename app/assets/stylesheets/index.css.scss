@@ -1,0 +1,25 @@
+.user_table{
+  width: 400px;
+  max-height: 450px;
+  overflow: scroll;
+}
+
+.user_index_item{
+  display: table-cell;
+}
+
+.user_form form{
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.user_form div{
+  margin: 10px 0;
+}
+
+.user_form .name_input{
+  margin-left: 20px;
+}
+.user_form .email_input{
+  margin-left: 23px;
+}
